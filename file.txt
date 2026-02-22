@@ -1,1 +1,2 @@
 Hello World!
+Welcome to SE3040 Lab 03!
